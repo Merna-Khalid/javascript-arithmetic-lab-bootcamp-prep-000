@@ -14,3 +14,16 @@ function divide(a, b) {
   return a / parseFloat(b)
 }
 
+function inc(n) {
+  return n++
+}
+
+function dec(n) {
+  return n--
+}
+
+function makeInt(n) {
+  return parseInt(n, 10)
+}
+
+function 
